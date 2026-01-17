@@ -10,9 +10,9 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Project Scaffolding' (Protocol in workflow.md) 8a8625c
 
 ## Phase 2: Domain Models and Data Structures
-- [ ] Task: Define SARIF and Code Quality data structures
-    - [ ] Create `internal/sarif` for SARIF models
-    - [ ] Create `internal/gitlab` for Code Quality models
+- [x] Task: Define SARIF and Code Quality data structures 364278d
+    - [x] Create `internal/sarif` for SARIF models
+    - [x] Create `internal/gitlab` for Code Quality models
 - [ ] Task: Write tests for JSON unmarshaling/marshaling
 - [ ] Task: Implement basic unmarshaling for SARIF and marshaling for Code Quality
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Domain Models and Data Structures' (Protocol in workflow.md)
