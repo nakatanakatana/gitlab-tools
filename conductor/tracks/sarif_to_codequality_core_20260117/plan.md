@@ -27,9 +27,9 @@
 - [x] Task: Implement Path Normalization 5442199
     - [x] Write tests for path relativization
     - [x] Implement normalization logic
-- [ ] Task: Implement Core Converter
-    - [ ] Write tests for full SARIF to Code Quality conversion
-    - [ ] Implement the main conversion function
+- [x] Task: Implement Core Converter 588dc92
+    - [x] Write tests for full SARIF to Code Quality conversion
+    - [x] Implement the main conversion function
 - [ ] Task: Conductor - User Manual Verification 'Phase 3: Core Conversion Logic (TDD)' (Protocol in workflow.md)
 
 ## Phase 4: CLI Interface and Integration
