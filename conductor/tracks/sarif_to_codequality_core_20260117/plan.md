@@ -32,7 +32,7 @@
     - [x] Implement the main conversion function
 - [x] Task: Conductor - User Manual Verification 'Phase 3: Core Conversion Logic (TDD)' (Protocol in workflow.md) dae3997
 
-## Phase 4: CLI Interface and Integration
+## Phase 4: CLI Interface and Integration [checkpoint: db6ed24]
 - [x] Task: Implement Configuration Loading 7acaf00
     - [x] Use `github.com/caarlos0/env` to load config
 - [x] Task: Implement CLI Argument Parsing 8e5b80b
@@ -42,4 +42,4 @@
     - [x] Implement merging logic for multiple inputs
 - [x] Task: Final Integration Test dfda8bf
     - [x] Write end-to-end tests using golden files (`gotest.tools/v3`)
-- [~] Task: Conductor - User Manual Verification 'Phase 4: CLI Interface and Integration' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 4: CLI Interface and Integration' (Protocol in workflow.md) db6ed24
