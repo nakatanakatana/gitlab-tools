@@ -14,7 +14,7 @@
     - [ ] Configure `GITHUB_TOKEN` permissions
 - [x] Task: Conductor - User Manual Verification 'Phase 2: GitHub Actions Workflow' (Protocol in workflow.md)
 
-## Phase 3: Final Verification
+## Phase 3: Final Verification [checkpoint: c22d3da]
 - [x] Task: Verify GoReleaser configuration locally [a724df5]
     - [ ] Run `goreleaser check`
     - [ ] Run `goreleaser release --snapshot --clean` (if goreleaser is installed)
