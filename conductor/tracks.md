@@ -4,5 +4,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [~] **Track: Move internal packages to cmd/sarif-to-codequality**
+- [x] **Track: Move internal packages to cmd/sarif-to-codequality**
   *Link: [./tracks/refactor_project_structure_20260117/](./tracks/refactor_project_structure_20260117/)*
