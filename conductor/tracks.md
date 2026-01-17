@@ -4,5 +4,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [~] **Track: goreleaserを使ってリリースするworkflowを導入してください**
+- [x] **Track: goreleaserを使ってリリースするworkflowを導入してください**
   *Link: [./tracks/introduce_goreleaser_workflow_20260117/](./tracks/introduce_goreleaser_workflow_20260117/)*
