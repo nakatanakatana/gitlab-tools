@@ -1,8 +1,0 @@
-{
-  "track_id": "introduce_goreleaser_workflow_20260117",
-  "type": "chore",
-  "status": "new",
-  "created_at": "2026-01-17T00:00:00Z",
-  "updated_at": "2026-01-17T00:00:00Z",
-  "description": "goreleaserを使ってリリースするworkflowを導入してください"
-}
