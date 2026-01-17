@@ -19,3 +19,4 @@
 ## Build & Automation
 - **Task Runner:** `Makefile` for standardizing development tasks such as building, testing, and linting.
 - **Deployment:** Self-contained, statically linked Go binaries for easy distribution.
+- **Release Automation:** `GoReleaser` for building and publishing binaries, integrated with `GitHub Actions` for automated releases on tag pushes.
