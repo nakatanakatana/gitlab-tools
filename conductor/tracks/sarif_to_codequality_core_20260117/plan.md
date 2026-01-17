@@ -40,6 +40,6 @@
 - [x] Task: Implement Stdin/Stdout and File Handling f6b616e
     - [x] Implement logic to read from multiple files or stdin
     - [x] Implement merging logic for multiple inputs
-- [ ] Task: Final Integration Test
-    - [ ] Write end-to-end tests using golden files (`gotest.tools/v3`)
-- [ ] Task: Conductor - User Manual Verification 'Phase 4: CLI Interface and Integration' (Protocol in workflow.md)
+- [x] Task: Final Integration Test dfda8bf
+    - [x] Write end-to-end tests using golden files (`gotest.tools/v3`)
+- [~] Task: Conductor - User Manual Verification 'Phase 4: CLI Interface and Integration' (Protocol in workflow.md)
