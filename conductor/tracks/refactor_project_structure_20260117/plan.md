@@ -24,7 +24,7 @@
 ## Phase 3: Verification
 - [x] Task: Verify Build 6d7ad34
     - [x] Run `make build` and ensure the binary is created
-- [ ] Task: Verify Tests
+- [~] Task: Verify Tests
     - [ ] Run `make test` and ensure all tests pass
 - [ ] Task: Verify Linting
     - [ ] Run `make lint` and fix any new issues (if any)
