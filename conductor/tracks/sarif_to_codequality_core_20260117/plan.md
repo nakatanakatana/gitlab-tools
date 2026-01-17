@@ -24,9 +24,9 @@
 - [x] Task: Implement Fingerprinting 8bd544f
     - [x] Write tests for stable fingerprint generation
     - [x] Implement fingerprinting logic
-- [ ] Task: Implement Path Normalization
-    - [ ] Write tests for path relativization
-    - [ ] Implement normalization logic
+- [x] Task: Implement Path Normalization 5442199
+    - [x] Write tests for path relativization
+    - [x] Implement normalization logic
 - [ ] Task: Implement Core Converter
     - [ ] Write tests for full SARIF to Code Quality conversion
     - [ ] Implement the main conversion function
