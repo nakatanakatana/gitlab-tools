@@ -17,7 +17,7 @@
     - [x] Update imports in `cmd/sarif-to-codequality/main.go`
     - [x] Update imports in internal packages to reference the new paths
     - [x] Verify `go.mod` and run `go mod tidy` if necessary
-- [ ] Task: Clean Up
+- [~] Task: Clean Up
     - [ ] Remove the empty root `internal/` directory
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Migration and Refactoring' (Protocol in workflow.md)
 
