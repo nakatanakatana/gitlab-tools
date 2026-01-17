@@ -5,7 +5,7 @@ BUILD_DIR=dist
 
 build:
 	mkdir -p $(BUILD_DIR)
-	go build -o $(BUILD_DIR)/$(BINARY_NAME) ./cmd/sarif-to-codequality
+	go build -o $(BUILD_DIR)/ ./cmd/...
 
 test:
 	go test -v ./...
