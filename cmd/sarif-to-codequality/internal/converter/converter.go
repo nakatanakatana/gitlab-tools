@@ -1,8 +1,8 @@
 package converter
 
 import (
-	"github.com/nakatanakatana/gitlab-tools/internal/gitlab"
-	"github.com/nakatanakatana/gitlab-tools/internal/sarif"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/gitlab"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/sarif"
 )
 
 // Convert converts a SARIF report to a slice of GitLab Code Quality issues.

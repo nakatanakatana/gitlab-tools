@@ -6,9 +6,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/nakatanakatana/gitlab-tools/internal/app"
-	"github.com/nakatanakatana/gitlab-tools/internal/cli"
-	"github.com/nakatanakatana/gitlab-tools/internal/config"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/app"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/cli"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/config"
 )
 
 func main() {
