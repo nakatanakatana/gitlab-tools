@@ -13,8 +13,8 @@
 - [x] Task: Define SARIF and Code Quality data structures 364278d
     - [x] Create `internal/sarif` for SARIF models
     - [x] Create `internal/gitlab` for Code Quality models
-- [ ] Task: Write tests for JSON unmarshaling/marshaling
-- [ ] Task: Implement basic unmarshaling for SARIF and marshaling for Code Quality
+- [x] Task: Write tests for JSON unmarshaling/marshaling 364278d
+- [x] Task: Implement basic unmarshaling for SARIF and marshaling for Code Quality 364278d
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Domain Models and Data Structures' (Protocol in workflow.md)
 
 ## Phase 3: Core Conversion Logic (TDD)
