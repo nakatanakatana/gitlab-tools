@@ -13,10 +13,10 @@
     - [x] Move `internal/converter` to `cmd/sarif-to-codequality/internal/converter`
     - [x] Move `internal/gitlab` to `cmd/sarif-to-codequality/internal/gitlab`
     - [x] Move `internal/sarif` to `cmd/sarif-to-codequality/internal/sarif`
-- [~] Task: Update Imports
-    - [ ] Update imports in `cmd/sarif-to-codequality/main.go`
-    - [ ] Update imports in internal packages to reference the new paths
-    - [ ] Verify `go.mod` and run `go mod tidy` if necessary
+- [x] Task: Update Imports 8c927bf
+    - [x] Update imports in `cmd/sarif-to-codequality/main.go`
+    - [x] Update imports in internal packages to reference the new paths
+    - [x] Verify `go.mod` and run `go mod tidy` if necessary
 - [ ] Task: Clean Up
     - [ ] Remove the empty root `internal/` directory
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Migration and Refactoring' (Protocol in workflow.md)
