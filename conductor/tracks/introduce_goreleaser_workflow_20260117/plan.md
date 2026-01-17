@@ -1,6 +1,6 @@
 # Implementation Plan - Introduce GoReleaser Workflow
 
-## Phase 1: GoReleaser Configuration
+## Phase 1: GoReleaser Configuration [checkpoint: 6606c6b]
 - [x] Task: Create `.goreleaser.yaml` [d315765]
     - [ ] Define build for `sarif-to-codequality`
     - [ ] Target Linux amd64 and arm64
