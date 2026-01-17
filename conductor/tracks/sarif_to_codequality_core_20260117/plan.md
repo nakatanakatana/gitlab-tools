@@ -9,13 +9,13 @@
     - [x] Install `golangci-lint` (if not present) and configure it
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Project Scaffolding' (Protocol in workflow.md) 8a8625c
 
-## Phase 2: Domain Models and Data Structures
+## Phase 2: Domain Models and Data Structures [checkpoint: cf836d7]
 - [x] Task: Define SARIF and Code Quality data structures 364278d
     - [x] Create `internal/sarif` for SARIF models
     - [x] Create `internal/gitlab` for Code Quality models
 - [x] Task: Write tests for JSON unmarshaling/marshaling 364278d
 - [x] Task: Implement basic unmarshaling for SARIF and marshaling for Code Quality 364278d
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Domain Models and Data Structures' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Domain Models and Data Structures' (Protocol in workflow.md) cf836d7
 
 ## Phase 3: Core Conversion Logic (TDD)
 - [ ] Task: Implement Severity Mapping
