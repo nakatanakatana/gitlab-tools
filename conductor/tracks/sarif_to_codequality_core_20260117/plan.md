@@ -18,9 +18,9 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Domain Models and Data Structures' (Protocol in workflow.md) cf836d7
 
 ## Phase 3: Core Conversion Logic (TDD)
-- [ ] Task: Implement Severity Mapping
-    - [ ] Write tests for severity mapping (including custom overrides)
-    - [ ] Implement mapping logic in `internal/converter`
+- [x] Task: Implement Severity Mapping b78e68d
+    - [x] Write tests for severity mapping (including custom overrides)
+    - [x] Implement mapping logic in `internal/converter`
 - [ ] Task: Implement Fingerprinting
     - [ ] Write tests for stable fingerprint generation
     - [ ] Implement fingerprinting logic
