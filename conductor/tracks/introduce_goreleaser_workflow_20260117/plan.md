@@ -8,7 +8,7 @@
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: GoReleaser Configuration' (Protocol in workflow.md)
 
 ## Phase 2: GitHub Actions Workflow
-- [ ] Task: Create `.github/workflows/release.yml`
+- [x] Task: Create `.github/workflows/release.yml` [cc82b8e]
     - [ ] Set trigger to push of tags `v*`
     - [ ] Use `goreleaser/goreleaser-action`
     - [ ] Configure `GITHUB_TOKEN` permissions
