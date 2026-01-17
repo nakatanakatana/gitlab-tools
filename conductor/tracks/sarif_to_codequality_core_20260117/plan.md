@@ -21,9 +21,9 @@
 - [x] Task: Implement Severity Mapping b78e68d
     - [x] Write tests for severity mapping (including custom overrides)
     - [x] Implement mapping logic in `internal/converter`
-- [ ] Task: Implement Fingerprinting
-    - [ ] Write tests for stable fingerprint generation
-    - [ ] Implement fingerprinting logic
+- [x] Task: Implement Fingerprinting 8bd544f
+    - [x] Write tests for stable fingerprint generation
+    - [x] Implement fingerprinting logic
 - [ ] Task: Implement Path Normalization
     - [ ] Write tests for path relativization
     - [ ] Implement normalization logic
