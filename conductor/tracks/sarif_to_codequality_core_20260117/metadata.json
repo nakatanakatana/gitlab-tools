@@ -1,8 +1,0 @@
-{
-  "track_id": "sarif_to_codequality_core_20260117",
-  "type": "feature",
-  "status": "new",
-  "created_at": "2026-01-17T00:00:00Z",
-  "updated_at": "2026-01-17T00:00:00Z",
-  "description": "Build the core CLI tool `sarif-to-codequality` including SARIF parsing, GitLab Code Quality mapping, and support for stdin/stdout and file merging."
-}
