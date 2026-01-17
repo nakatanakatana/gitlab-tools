@@ -37,9 +37,9 @@
     - [x] Use `github.com/caarlos0/env` to load config
 - [x] Task: Implement CLI Argument Parsing 8e5b80b
     - [x] Use `flag` package for input/output paths and flags
-- [ ] Task: Implement Stdin/Stdout and File Handling
-    - [ ] Implement logic to read from multiple files or stdin
-    - [ ] Implement merging logic for multiple inputs
+- [x] Task: Implement Stdin/Stdout and File Handling f6b616e
+    - [x] Implement logic to read from multiple files or stdin
+    - [x] Implement merging logic for multiple inputs
 - [ ] Task: Final Integration Test
     - [ ] Write end-to-end tests using golden files (`gotest.tools/v3`)
 - [ ] Task: Conductor - User Manual Verification 'Phase 4: CLI Interface and Integration' (Protocol in workflow.md)
