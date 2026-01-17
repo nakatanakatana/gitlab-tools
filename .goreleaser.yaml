@@ -13,7 +13,8 @@ builds:
       - arm64
 
 archives:
-  - format: tar.gz
+  - formats:
+    - tar.gz
     # this name template makes the OS and Arch compatible with the results of uname.
     name_template: >-
       {{ .ProjectName }}_
@@ -25,13 +26,14 @@ archives:
     # use zip for windows.
     format_overrides:
     - goos: windows
-      format: zip
+      formats:
+      - zip
 
 checksum:
   name_template: 'checksums.txt'
 
 snapshot:
-  name_template: "{{ .Tag }}-next"
+  version_template: "{{ .Tag }}-next"
 
 changelog:
   sort: asc
