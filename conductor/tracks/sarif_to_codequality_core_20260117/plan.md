@@ -35,8 +35,8 @@
 ## Phase 4: CLI Interface and Integration
 - [x] Task: Implement Configuration Loading 7acaf00
     - [x] Use `github.com/caarlos0/env` to load config
-- [ ] Task: Implement CLI Argument Parsing
-    - [ ] Use `flag` package for input/output paths and flags
+- [x] Task: Implement CLI Argument Parsing 8e5b80b
+    - [x] Use `flag` package for input/output paths and flags
 - [ ] Task: Implement Stdin/Stdout and File Handling
     - [ ] Implement logic to read from multiple files or stdin
     - [ ] Implement merging logic for multiple inputs
