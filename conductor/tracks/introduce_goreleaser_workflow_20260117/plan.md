@@ -12,7 +12,7 @@
     - [ ] Set trigger to push of tags `v*`
     - [ ] Use `goreleaser/goreleaser-action`
     - [ ] Configure `GITHUB_TOKEN` permissions
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: GitHub Actions Workflow' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: GitHub Actions Workflow' (Protocol in workflow.md)
 
 ## Phase 3: Final Verification
 - [ ] Task: Verify GoReleaser configuration locally
