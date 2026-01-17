@@ -6,13 +6,13 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Preparation' (Protocol in workflow.md) c5274d8
 
 ## Phase 2: Migration and Refactoring
-- [ ] Task: Move Packages
-    - [ ] Move `internal/app` to `cmd/sarif-to-codequality/internal/app`
-    - [ ] Move `internal/cli` to `cmd/sarif-to-codequality/internal/cli`
-    - [ ] Move `internal/config` to `cmd/sarif-to-codequality/internal/config`
-    - [ ] Move `internal/converter` to `cmd/sarif-to-codequality/internal/converter`
-    - [ ] Move `internal/gitlab` to `cmd/sarif-to-codequality/internal/gitlab`
-    - [ ] Move `internal/sarif` to `cmd/sarif-to-codequality/internal/sarif`
+- [x] Task: Move Packages ed319d5
+    - [x] Move `internal/app` to `cmd/sarif-to-codequality/internal/app`
+    - [x] Move `internal/cli` to `cmd/sarif-to-codequality/internal/cli`
+    - [x] Move `internal/config` to `cmd/sarif-to-codequality/internal/config`
+    - [x] Move `internal/converter` to `cmd/sarif-to-codequality/internal/converter`
+    - [x] Move `internal/gitlab` to `cmd/sarif-to-codequality/internal/gitlab`
+    - [x] Move `internal/sarif` to `cmd/sarif-to-codequality/internal/sarif`
 - [ ] Task: Update Imports
     - [ ] Update imports in `cmd/sarif-to-codequality/main.go`
     - [ ] Update imports in internal packages to reference the new paths
