@@ -33,8 +33,8 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 3: Core Conversion Logic (TDD)' (Protocol in workflow.md) dae3997
 
 ## Phase 4: CLI Interface and Integration
-- [ ] Task: Implement Configuration Loading
-    - [ ] Use `github.com/caarlos0/env` to load config
+- [x] Task: Implement Configuration Loading 7acaf00
+    - [x] Use `github.com/caarlos0/env` to load config
 - [ ] Task: Implement CLI Argument Parsing
     - [ ] Use `flag` package for input/output paths and flags
 - [ ] Task: Implement Stdin/Stdout and File Handling
