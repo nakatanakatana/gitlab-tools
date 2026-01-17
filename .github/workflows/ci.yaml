@@ -80,6 +80,12 @@ jobs:
       - uses: aquaproj/aqua-installer@v4.0.4
         with:
           aqua_version: v2.56.2
+      # NOTE: workground https://github.com/golang/go/issues/75031
+      - id: parse-go-version
+        run: echo "GO_VERSION=$(cat aqua.yaml | grep "golang/go" | cut -f2 -d'@')" >> $GITHUB_OUTPUT
+      - run: go env -w GOTOOLCHAIN="${GO_VERSION}+auto"
+        env:
+          GO_VERSION: ${{ steps.parse-go-version.outputs.GO_VERSION }}
       - run: go test ./... -v -coverprofile=coverage.txt -covermode=atomic
       - uses: codecov/codecov-action@v5
         with:
