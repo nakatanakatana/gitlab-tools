@@ -5,7 +5,7 @@
     - [x] Create `cmd/sarif-to-codequality/internal`
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Preparation' (Protocol in workflow.md) c5274d8
 
-## Phase 2: Migration and Refactoring
+## Phase 2: Migration and Refactoring [checkpoint: 51ccfb2]
 - [x] Task: Move Packages ed319d5
     - [x] Move `internal/app` to `cmd/sarif-to-codequality/internal/app`
     - [x] Move `internal/cli` to `cmd/sarif-to-codequality/internal/cli`
@@ -19,7 +19,7 @@
     - [x] Verify `go.mod` and run `go mod tidy` if necessary
 - [x] Task: Clean Up 256a468
     - [x] Remove the empty root `internal/` directory
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Migration and Refactoring' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Migration and Refactoring' (Protocol in workflow.md) 51ccfb2
 
 ## Phase 3: Verification
 - [ ] Task: Verify Build
