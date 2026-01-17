@@ -1,11 +1,7 @@
-# Initial Concept
-
-cmd/sarif-to-codequality以下にSARIF形式のレポートをGitLabの[codequality形式](https://docs.gitlab.com/ja-jp/ci/testing/code_quality/#code-quality-report-format)に変換するプログラムを作成してください
-
 # Product Definition - sarif-to-codequality
 
-## Initial Concept
-Create a program under `cmd/sarif-to-codequality` to convert SARIF format reports to GitLab's [codequality format](https://docs.gitlab.com/ja-jp/ci/testing/code_quality/#code-quality-report-format).
+## Overview
+`sarif-to-codequality` is a CLI tool designed to convert SARIF (Static Analysis Results Interchange Format) reports into GitLab's [Code Quality report format](https://docs.gitlab.com/ja-jp/ci/testing/code_quality/#code-quality-report-format). This enables seamless integration of various security and static analysis tools into GitLab CI/CD pipelines.
 
 ## Target Users & Scenes
 - **GitLab CI Pipelines:** Automatically convert security scan and static analysis results to allow viewing within GitLab's Merge Request interface.
