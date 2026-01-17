@@ -17,7 +17,7 @@
 - [x] Task: Implement basic unmarshaling for SARIF and marshaling for Code Quality 364278d
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Domain Models and Data Structures' (Protocol in workflow.md) cf836d7
 
-## Phase 3: Core Conversion Logic (TDD)
+## Phase 3: Core Conversion Logic (TDD) [checkpoint: dae3997]
 - [x] Task: Implement Severity Mapping b78e68d
     - [x] Write tests for severity mapping (including custom overrides)
     - [x] Implement mapping logic in `internal/converter`
@@ -30,7 +30,7 @@
 - [x] Task: Implement Core Converter 588dc92
     - [x] Write tests for full SARIF to Code Quality conversion
     - [x] Implement the main conversion function
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: Core Conversion Logic (TDD)' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 3: Core Conversion Logic (TDD)' (Protocol in workflow.md) dae3997
 
 ## Phase 4: CLI Interface and Integration
 - [ ] Task: Implement Configuration Loading
