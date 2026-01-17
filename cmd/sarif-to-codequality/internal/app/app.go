@@ -5,9 +5,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/nakatanakatana/gitlab-tools/internal/converter"
-	"github.com/nakatanakatana/gitlab-tools/internal/gitlab"
-	"github.com/nakatanakatana/gitlab-tools/internal/sarif"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/converter"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/gitlab"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/sarif"
 )
 
 // Run executes the conversion process.

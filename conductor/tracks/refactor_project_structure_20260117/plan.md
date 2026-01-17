@@ -13,7 +13,7 @@
     - [x] Move `internal/converter` to `cmd/sarif-to-codequality/internal/converter`
     - [x] Move `internal/gitlab` to `cmd/sarif-to-codequality/internal/gitlab`
     - [x] Move `internal/sarif` to `cmd/sarif-to-codequality/internal/sarif`
-- [ ] Task: Update Imports
+- [~] Task: Update Imports
     - [ ] Update imports in `cmd/sarif-to-codequality/main.go`
     - [ ] Update imports in internal packages to reference the new paths
     - [ ] Verify `go.mod` and run `go mod tidy` if necessary

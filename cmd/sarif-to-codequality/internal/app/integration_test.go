@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/nakatanakatana/gitlab-tools/internal/app"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/app"
 	"gotest.tools/v3/assert"
 	"gotest.tools/v3/golden"
 )

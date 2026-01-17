@@ -3,7 +3,7 @@ package converter
 import (
 	"testing"
 
-	"github.com/nakatanakatana/gitlab-tools/internal/sarif"
+	"github.com/nakatanakatana/gitlab-tools/cmd/sarif-to-codequality/internal/sarif"
 	"gotest.tools/v3/assert"
 )
 
