@@ -5,4 +5,5 @@
 ![Coverage](https://github.com/nakatanakatana/octocov-central/blob/main/badges/nakatanakatana/gitlab-tools/coverage.svg?raw=true)
 ![Code to Test Ratio](https://github.com/nakatanakatana/octocov-central/blob/main/badges/nakatanakatana/gitlab-tools/ratio.svg?raw=true)
 ![Test Execution Time](https://github.com/nakatanakatana/octocov-central/blob/main/badges/nakatanakatana/gitlab-tools/time.svg?raw=true)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/nakatanakatana/gitlab-tools)
 
